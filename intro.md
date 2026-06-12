@@ -1,4 +1,4 @@
-# Playbook de [*nombre de proceso*]
+# Playbook de [*INTRO*]
 
 *[Insertar introducción]*
 
